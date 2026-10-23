@@ -1,23 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A6ED1,100:0FAAFF&height=180&section=header&text=Emre%20AYDIN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SAP%20Developer%20%7C%20ABAP%20%E2%80%A2%20SAPUI5%20%E2%80%A2%20BTP&descAlignY=58&descSize=18" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0FAAFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Emre+AYDIN+%F0%9F%91%8B;SAP+ABAP+%26+SAPUI5+Developer;Exploring+SAP+BTP+%26+Mobile+Services;Building+with+CAP%2C+RAP+%26+MDK+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/1emreaydin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_KULLANICI_ADIN&label=Profile%20Views&color=0FAAFF&style=for-the-badge" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - 👀 I'm interested in **SAP ABAP** and **SAPUI5**
