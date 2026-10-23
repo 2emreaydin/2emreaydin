@@ -1,13 +1,13 @@
-## 👨‍💻 About Me
+##  About Me
 
-- 👀 I'm interested in **SAP ABAP** and **SAPUI5**
-- 🌱 Currently learning **SAP BTP**, **SAP Mobile Services**, **SAP Asset Manager**, **SAP Build Apps** and **SAP MDK**
-- 💡 I enjoy building clean backend logic and modern Fiori user experiences
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/1emreaydin/)
+-  I'm interested in **SAP ABAP** and **SAPUI5**
+-  Currently learning **SAP BTP**, **SAP Mobile Services**, **SAP Asset Manager**, **SAP Build Apps** and **SAP MDK**
+-  I enjoy building clean backend logic and modern Fiori user experiences
+-  How to reach me: [LinkedIn](https://www.linkedin.com/in/1emreaydin/)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **SAP Backend**
 
