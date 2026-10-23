@@ -124,10 +124,3 @@
 - Deployment & app updates through SAP Mobile Services
 
 </details>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FAAFF,100:0A6ED1&height=100&section=footer" />
-</p>
